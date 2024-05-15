@@ -23,24 +23,26 @@ Here are some ideas to get you started:
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Eastboat!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&background=FFFFFF&center=true&vCenter=true&random=false&width=444&height=40&lines=Love+coding+%2C+love+music+%2C+love+life" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&background=FFFFFF&center=true&vCenter=true&random=false&width=444&height=40&lines=Love+coding+%2C+love+music+%2C+love+life" alt="Typing SVG" />
+</a>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&background=000000&center=true&vCenter=true&random=false&width=444&height=40&lines=Love+coding+%2C+love+music+%2C+love+life" alt="Typing SVG" /></a>  -->
 
 <br />      
-<p align="left" style="color: #004468;font-weight: 700;">I am a front-end developer and AI enthusiast, very fond of React.js, Node.js, REST API... </p>
+
+<p align="left" style="color:#004468;font-weight:700;">I am a front-end developer and AI enthusiast, very fond of React.js, Node.js, REST API... </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - ✍ I write technical blogs, You can visit my blog site at eastboat.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://eastboat.github.io) for more details about me.
-
+- 💻 Visit my [blog](https://eastboat.github.io) for more details about me.
 
 ---
+
 <br />
-<img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Eastboat&props.theme=dark" width="100%;height:90px" />
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -63,11 +65,18 @@ Here are some ideas to get you started:
   <tr>
     <td>
        <a href="https://github.com/Eastboat">
-        <img  src='https://github-readme-activity-graph.vercel.app/graph?username=Eastboat&theme=dracula' alt="GitHub Eastboat" >
+         <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Eastboat&props.theme=dark" width="100%;height:90px" />
+    </a>
+    </td>
+        <td>
+       <a href="https://github.com/Eastboat">
+ <img src="https://metrics.lecoq.io/Eastbaot?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" />
     </a>
     </td>
   </tr>
 </table>
+
+  <img  src='https://github-readme-activity-graph.vercel.app/graph?username=Eastboat&theme=dracula' alt="GitHub Eastboat" >
 
 
 
