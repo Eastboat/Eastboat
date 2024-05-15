@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Eastboat! 
-**Front-End Web Developer** <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&background=000000&center=true&vCenter=true&random=false&width=444&height=40&lines=Love+coding+%2C+love+music+%2C+love+life" alt="Typing SVG" /></a>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Eastboat! <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&background=000000&center=true&vCenter=true&random=false&width=444&height=40&lines=Love+coding+%2C+love+music+%2C+love+life" alt="Typing SVG" /></a>
+
 <br />
 
 <!--Start Intro-->               
