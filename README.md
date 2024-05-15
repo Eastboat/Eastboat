@@ -68,15 +68,10 @@ Here are some ideas to get you started:
          <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Eastboat&props.theme=dark" width="100%;height:90px" />
     </a>
     </td>
-        <td>
-       <a href="https://github.com/Eastboat">
-        
-    </a>
-    </td>
   </tr>
 </table>
 
-  <img  src='https://github-readme-activity-graph.vercel.app/graph?username=Eastboat&theme=dracula' alt="GitHub Eastboat" >
+<img  src='https://github-readme-activity-graph.vercel.app/graph?username=Eastboat&theme=dracula' alt="GitHub Eastboat" />
 
 
 
