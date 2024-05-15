@@ -30,14 +30,40 @@ Here are some ideas to get you started:
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at ~[eastboat]()~.
+- ✍ I write technical blogs, You can visit my blog site at eastboat.
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://eastboat.github.io) for more details about me.
 <!--End Intro-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eastboat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Eastboat">
+              [![Eastboat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eastboat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+         <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=Eastboat&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />     
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eastboat&theme=dracula)](https://github.com/eastboat/github-readme-activity-graph)
+  </tr>
+</table>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eastboat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eastboat&theme=dracula)](https://github.com/eastboat/github-readme-activity-graph)
