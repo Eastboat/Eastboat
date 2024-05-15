@@ -44,7 +44,7 @@ Here are some ideas to get you started:
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Eastboat">
-              [![Eastboat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eastboat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+            <img src='https://github-readme-stats.vercel.app/api?username=Eastboat&theme=radical' />
         </a>
       </p>
     </td>
@@ -58,8 +58,11 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eastboat&theme=dracula)](https://github.com/eastboat/github-readme-activity-graph)
+    <td>
+       <a href="https://github.com/Eastboat">
+        <img  src='https://github-readme-activity-graph.vercel.app/graph?username=Eastboat&theme=dracula' alt="GitHub Eastboat" >
+    </a>
+    </td>
   </tr>
 </table>
 
