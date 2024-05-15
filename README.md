@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br />
 
 <!--Start Intro-->               
-<p align="left">I am a front-end developer and AI enthusiast, very fond of React.js, Node.js, REST API... </p>
+<p align="left" style="color: #004468;font-weight: 700;">I am a front-end developer and AI enthusiast, very fond of React.js, Node.js, REST API... </p>
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
          <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=Eastboat&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />     
+          <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Eastboat&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />     
         </a>
       </p>
     </td>
