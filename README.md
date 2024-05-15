@@ -1,4 +1,4 @@
-### Hi there 👋 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&background=000000&center=true&vCenter=true&random=false&width=444&height=40&lines=Love+coding+%2C+love+music+%2C+love+life" alt="Typing SVG" /></a>
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&background=000000&center=true&vCenter=true&random=false&width=444&height=40&lines=Love+coding+%2C+love+music+%2C+love+life" alt="Typing SVG" /></a>
 
 <!--
 **Eastboat/Eastboat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,20 +21,18 @@ Here are some ideas to get you started:
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Eastboat! 
-* Front-End Web Developer *
+# Hi there 👋 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Eastboat! 
+**Front-End Web Developer**
 <br />
 
 <!--Start Intro-->               
 <p align="left" style="color: #004468;font-weight: 700;">I am a front-end developer and AI enthusiast, very fond of React.js, Node.js, REST API... </p>
-
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - ✍ I write technical blogs, You can visit my blog site at eastboat.
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://eastboat.github.io) for more details about me.
-
 <!--End Intro-->
 
 ---
