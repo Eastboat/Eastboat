@@ -52,7 +52,7 @@ Here are some ideas to get you started:
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
          <a href="https://git.io/streak-stats">
-             <img src="https://streak-stats.demolab.com?user=Eastboat&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />     
+             <img src="https://streak-stats.demolab.com?user=Eastboat&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&card_height=230" alt="GitHub Streak" />     
         </a>
       </p>
     </td>
