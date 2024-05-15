@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 <br />
-<img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Eastboat&props.theme=dark" />
+<img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Eastboat&props.theme=dark" width="100%;height:90px" />
 <table width="100%">
   <tr>
     <td width="50%">
