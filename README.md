@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center" style="color:#36bcf8"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong style="color:#36bcf8">Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Eastboat">
             <img src='https://github-readme-stats.vercel.app/api?username=Eastboat&theme=radical' />
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center" style="color:#36bcf8"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong style="color:#36bcf8">Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
          <a href="https://git.io/streak-stats">
              <img src="https://streak-stats.demolab.com?user=Eastboat&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&card_height=210" alt="GitHub Streak" />     
