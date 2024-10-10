@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ❤ Contributing to Open Source.
 - 💻 Visit my [blog](https://eastboat.github.io) for more details about me.
 
-<img src="https://camo.githubusercontent.com/050c345844964c5d0ba6bfb574e5d0a79c61b1afcbc91c57ab311bc523c318a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572" />
+<!-- <img src="https://camo.githubusercontent.com/050c345844964c5d0ba6bfb574e5d0a79c61b1afcbc91c57ab311bc523c318a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572" /> -->
 
 
 ---
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Eastboat&theme=radical&layout=compact' alt="GitHub Eastboat" /> -->
 <img src='https://github-readme-activity-graph.vercel.app/graph?username=Eastboat&theme=dracula' alt="GitHub Eastboat" />
-<img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Eastboat&props.theme=dark" width="100%;height:90px" />
+<!-- <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=Eastboat&props.theme=dark" width="100%;height:90px" /> -->
 <img src="banner.png" width="100%">
-<img src="https://camo.githubusercontent.com/050c345844964c5d0ba6bfb574e5d0a79c61b1afcbc91c57ab311bc523c318a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572" />
+<!-- <img src="https://camo.githubusercontent.com/050c345844964c5d0ba6bfb574e5d0a79c61b1afcbc91c57ab311bc523c318a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572" /> -->
 
 
